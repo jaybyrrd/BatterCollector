@@ -10,6 +10,7 @@ ABatteryPickup::ABatteryPickup()
 	GetMesh()->SetSimulatePhysics(true);
 }
 
+
 void ABatteryPickup::WasCollected_Implementation()
 {
 	Super::WasCollected_Implementation();

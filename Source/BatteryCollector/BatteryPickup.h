@@ -17,5 +17,6 @@ public:
 	// Sets default values for this actor's properties
 	ABatteryPickup();
 	
+	//Overrides from the base class.
 	void WasCollected_Implementation() override;
 };

@@ -25,11 +25,10 @@ public:
 	//Function to call when a pickup is collected
 	UFUNCTION(BlueprintNativeEvent)
 	void WasCollected();
-
 	virtual void WasCollected_Implementation();
 
 	// Called every frame
-	virtual void Tick(float DeltaTime) override;
+	virtual void Tick(float DeltaTime);
 
 	/** Return the mesh for the pickup */
 	FORCEINLINE class UStaticMeshComponent* GetMesh() const { return PickupMesh; }
