@@ -19,4 +19,13 @@ public:
 	
 	//Overrides from the base class.
 	void WasCollected_Implementation() override;
+
+
+	/** public way to access the battery power level */
+	float GetBatteryPower() const;
+
+protected:
+	/** Set the amount of power the battery gives to the character */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Power", Meta = (BlueprintProtected = "true"))
+	float BatteryPower;
 };

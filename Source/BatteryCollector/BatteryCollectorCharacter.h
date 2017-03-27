@@ -30,6 +30,20 @@ public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseLookUpRate;
 
+	/** Accessor function for initial power */
+	UFUNCTION(BlueprintPure, Category = "Power")
+	float GetInitialPower() const;
+	
+	/** Accessor function for current power */
+	UFUNCTION(BlueprintPure, Category = "Power")
+	float GetCurrentPower() const;
+	
+	/**
+	 * @param PowerChange The amount to change CharacterPower by.
+	 */
+	UFUNCTION(BlueprintCallable, Category = "Power")
+	void UpdatePower(float PowerChange);
+
 protected:
 
 	/** Resets HMD orientation in VR. */
@@ -63,6 +77,30 @@ protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	// End of APawn interface
+
+	/** This function collects the pickups overlapping the CollectionSphere */
+	UFUNCTION(BlueprintCallable, Category = "Pickups")
+	void CollectPickups();
+
+	/** Initial power level */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Power", Meta = (BlueprintProtected = "true"))
+	float InitialPower;
+
+	/** Speed after power mod */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Power", Meta = (BlueprintProtected = "true"))
+	float SpeedFactor;
+
+	/** Initial speed before power mod */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Power", Meta = (BlueprintProtected = "true"))
+	float BaseSpeed;
+
+	UFUNCTION(BlueprintImplementableEvent)
+	void PowerChangeEffect();
+
+private:
+	/** Current power level of the character */
+	UPROPERTY(VisibleAnywhere, Category = "Power")
+	float CharacterPower;
 
 public:
 	/** Returns CameraBoom subobject **/
