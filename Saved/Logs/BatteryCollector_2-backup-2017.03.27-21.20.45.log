@@ -1,0 +1,197 @@
+﻿Log file open, 03/26/17 17:05:37
+LogInit:Display: Running engine for game: BatteryCollector
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-846298468) SRandInit(-846298468).
+LogTaskGraph: Started task graph with 5 named threads and 10 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.222731
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.15-CL-3348071
+LogInit: Engine Version: 4.15.1-3348071+++UE4+Release-4.15
+LogInit: Compatible Engine Version: 4.15.0-3299760+++UE4+Release-4.15
+LogInit: Net CL: 3299760
+LogDevObjectVersion: Number of dev versions registered: 14
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 8
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 14
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 22
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 3
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogInit: Compiled (64-bit): Mar 15 2017 16:52:47
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.15
+LogInit: Command line:  -skipcompile
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.26-21.05.38:171][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.26-21.05.38:171][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.26-21.05.38:180][  0]LogInit: Computer: DESKTOP-9S1GO0T
+[2017.03.26-21.05.38:180][  0]LogInit: User: JayByrrd
+[2017.03.26-21.05.38:180][  0]LogInit: CPU Page size=65536, Cores=6
+[2017.03.26-21.05.38:180][  0]LogInit: High frequency timer resolution =3.507510 MHz
+[2017.03.26-21.05.38:181][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.03.26-21.05.38:181][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.26-21.05.38:181][  0]LogMemory: Process Physical Memory: 264.89 MB used, 264.89 MB peak
+[2017.03.26-21.05.38:181][  0]LogMemory: Process Virtual Memory: 269.64 MB used, 269.64 MB peak
+[2017.03.26-21.05.38:181][  0]LogMemory: Physical Memory: 14923.09 MB used,  17764.01 MB free, 32687.10 MB total
+[2017.03.26-21.05.38:181][  0]LogMemory: Virtual Memory: 653.50 MB used,  17764.01 MB free, 134217728.00 MB total
+[2017.03.26-21.05.38:369][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.26-21.05.38:892][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.26-21.05.39:498][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2017.03.26-21.05.39:498][  0]LogD3D11RHI:       8000/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.03.26-21.05.39:502][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.26-21.05.39:502][  0]LogD3D11RHI:       0/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.26-21.05.39:502][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.26-21.05.39:507][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.26-21.05.39:507][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.26-21.05.39:507][  0]LogWindows: EnumDisplayDevices:
+[2017.03.26-21.05.39:507][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2017.03.26-21.05.39:507][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2017.03.26-21.05.39:507][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2017.03.26-21.05.39:508][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2017.03.26-21.05.39:508][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.03.26-21.05.39:508][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2017.03.26-21.05.39:508][  0]LogD3D11RHI:   Driver Version: 378.78 (internal:21.21.13.7878, unified:378.78)
+[2017.03.26-21.05.39:508][  0]LogD3D11RHI:      Driver Date: 2-23-2017
+[2017.03.26-21.05.39:508][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.26-21.05.40:078][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.26-21.05.40:110][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.26-21.05.40:250][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Intermediate/Shaders/WorkingDirectory/5180/).
+[2017.03.26-21.05.40:250][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/JayByrrd/AppData/Local/Temp/UnrealShaderWorkingDir/ED98ACDA47778EE312368FA4E1F368FD/'.
+[2017.03.26-21.05.40:250][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.26-21.05.41:125][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.26-21.05.41:176][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.26-21.05.41:227][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.26-21.05.41:277][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.26-21.05.41:328][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.26-21.05.41:397][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.26-21.05.41:449][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.26-21.05.41:500][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.26-21.05.41:548][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.26-21.05.41:615][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.26-21.05.41:664][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.26-21.05.41:710][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.26-21.05.41:757][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.26-21.05.41:804][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.26-21.05.41:852][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.26-21.05.41:947][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.26-21.05.41:947][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.26-21.05.41:992][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.26-21.05.42:149][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.26-21.05.42:190][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.26-21.05.42:239][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.26-21.05.42:287][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.26-21.05.42:335][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.26-21.05.42:385][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.26-21.05.42:385][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.26-21.05.42:978][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.26-21.05.43:027][  0]LogDerivedDataCache: Loaded boot cache 0.05s 51MB C:/Users/JayByrrd/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc.
+[2017.03.26-21.05.43:027][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/JayByrrd/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc
+[2017.03.26-21.05.43:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.26-21.05.43:027][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.26-21.05.43:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.26-21.05.43:027][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.26-21.05.43:042][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.26-21.05.43:054][  0]LogDerivedDataCache: Using Local data cache path C:/Users/JayByrrd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.26-21.05.43:061][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.26-21.05.43:062][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.26-21.05.43:062][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.26-21.05.43:270][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.26-21.05.43:272][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.26-21.05.43:468][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.26-21.05.43:516][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.26-21.05.43:564][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.26-21.05.43:564][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.26-21.05.43:564][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.26-21.05.44:049][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3299760, ProjectName: batterycollector, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 2727626990
+[2017.03.26-21.05.44:100][  0]LogAssetRegistry: FAssetRegistry took 0.0232 seconds to start up
+[2017.03.26-21.05.44:149][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.026898 seconds
+[2017.03.26-21.05.44:155][  0]LogUObjectArray: 32493 objects as part of root set at end of initial load.
+[2017.03.26-21.05.44:155][  0]LogUObjectAllocator: 7077032 out of 0 bytes used by permanent object pool.
+[2017.03.26-21.05.44:155][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.26-21.05.44:218][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.26-21.05.45:811][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.26-21.05.45:854][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.26-21.05.46:506][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.26-21.05.46:918][  0]SourceControl: Info Source control is disabled
+[2017.03.26-21.05.46:942][  0]SourceControl: Info Source control is disabled
+[2017.03.26-21.05.47:006][  0]SourceControl: Info Source control is disabled
+[2017.03.26-21.05.47:057][  0]SourceControl: Info Source control is disabled
+[2017.03.26-21.05.48:347][  0]LogEngine: Initializing Engine...
+[2017.03.26-21.05.48:348][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.26-21.05.48:537][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.26-21.05.48:551][  0]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.26-21.05.48:561][  0]LogInit: FAudioDevice initialized.
+[2017.03.26-21.05.48:583][  0]LogDerivedDataCache: Saved boot cache 0.02s 51MB C:/Users/JayByrrd/AppData/Local/UnrealEngine/4.15/DerivedDataCache/Boot.ddc.
+[2017.03.26-21.05.48:588][  0]LogInit: Texture streaming: Enabled
+[2017.03.26-21.05.48:703][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.03.26-21.05.48:838][  0]LogInit: Transaction tracking system initialized
+[2017.03.26-21.05.49:175][  0]BlueprintLog: New page: Editor Load
+[2017.03.26-21.05.50:145][  0]LocalizationService: Info Localization service is disabled
+[2017.03.26-21.05.50:802][  0]LogConsoleResponse:Display: 
+[2017.03.26-21.05.50:959][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.26-21.05.50:960][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.26-21.05.51:593][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/' took 0.01s
+[2017.03.26-21.05.51:984][  0]SourceControl: Info Source control is disabled
+[2017.03.26-21.05.51:985][  0]Cmd: MAP LOAD FILE="../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Maps/CollectionLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.26-21.05.51:985][  0]LightingResults: New page: Lighting Build
+[2017.03.26-21.05.52:017][  0]MapCheck: New page: Map Check
+[2017.03.26-21.05.52:017][  0]LightingResults: New page: Lighting Build
+[2017.03.26-21.05.52:529][  0]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.26-21.05.52:554][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.26-21.05.52:555][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.26-21.05.52:615][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 60.073ms to complete.
+[2017.03.26-21.05.52:615][  0]LogFileHelpers: Loading map 'CollectionLevel' took 0.630
+[2017.03.26-21.05.52:824][  0]LogCollectionManager: Loaded 0 collections in 0.002083 seconds
+[2017.03.26-21.05.52:912][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Collections/' took 0.01s
+[2017.03.26-21.05.52:913][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Developers/JayByrrd/Collections/' took 0.01s
+[2017.03.26-21.05.52:913][  0]LogFileCache: Scanning file cache for directory 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Collections/' took 0.01s
+[2017.03.26-21.05.52:913][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.03.26-21.05.52:920][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2250 classes and 455 folders.
+[2017.03.26-21.05.52:922][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.26-21.05.52:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.26-21.05.52:972][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.03.26-21.05.52:999][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.03.26-21.05.53:050][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.03.26-21.05.53:101][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.26-21.05.53:106][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.26-21.05.53:186][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.03.26-21.05.53:186][  0]LogLoad: (Engine Initialization) Total time: 17.30 seconds
+[2017.03.26-21.05.53:187][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.22 seconds
+[2017.03.26-21.05.53:187][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.26-21.05.53:187][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.26-21.05.53:526][  0]LogOcInput: OculusInput pre-init called
+[2017.03.26-21.05.53:540][  0]LogAssetRegistry: Asset discovery search completed in 9.4626 seconds
+[2017.03.26-21.05.53:540][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2017.03.26-21.05.53:540][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2017.03.26-21.05.53:544][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.26-21.05.53:552][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.03.26-21.05.53:555][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.03.26-21.05.53:559][  0]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.03.26-21.05.53:670][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.03.26-21.05.53:691][  0]LogRenderer: Reallocating scene render targets to support 1208x576 NumSamples 1 (Frame:2).
