@@ -195,3 +195,1080 @@ LogInit: Object subsystem initialized
 [2017.03.30-00.46.13:456][  1]LogAssetRegistry: Asset discovery search completed in 12.5888 seconds
 [2017.03.30-00.46.13:456][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
 [2017.03.30-00.46.13:456][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2017.03.30-00.52.14:650][578]LogSlate: Took 0.003548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.03.30-00.52.22:088][456]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-00.52.22:102][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-00.52.22:106][456]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 4:52:22 PM)
+[2017.03.30-00.52.22:107][456]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-00.52.22:113][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006573s)
+[2017.03.30-00.52.22:114][456]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-00.52.22:114][456]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2017.03.30-00.52.22:115][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.008704s)
+[2017.03.30-00.52.22:151][456]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-00.52.22:155][456]LogInit: FAudioDevice initialized.
+[2017.03.30-00.52.22:248][456]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-00.52.22:256][456]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-20.52.22
+[2017.03.30-00.52.22:259][456]LogWorld: Bringing up level for play took: 0.003169
+[2017.03.30-00.52.22:303][456]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2017.03.30-00.52.22:304][456]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-00.52.22:304][456]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-00.52.22:304][456]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-00.52.22:333][456]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-00.52.22:333][456]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 1.143
+[2017.03.30-00.52.44:859][101]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-00.52.44:872][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-00.52.44:872][101]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 4:52:44 PM)
+[2017.03.30-00.52.44:872][101]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-00.52.44:874][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002142s)
+[2017.03.30-00.52.44:875][101]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-00.52.44:875][101]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2017.03.30-00.52.44:875][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003052s)
+[2017.03.30-00.52.44:892][101]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-00.52.44:897][101]LogInit: FAudioDevice initialized.
+[2017.03.30-00.52.44:930][101]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-00.52.44:932][101]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-20.52.44
+[2017.03.30-00.52.44:933][101]LogWorld: Bringing up level for play took: 0.001342
+[2017.03.30-00.52.44:933][101]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-00.52.44:933][101]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-00.52.44:933][101]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-00.52.44:934][101]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-00.52.44:934][101]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.255
+[2017.03.30-00.56.37:495][283]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.03.30-00.56.46:494][310]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.03.30-00.56.46:589][310]LogSavePackage: Save=36.26ms
+[2017.03.30-00.56.46:589][310]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/CollectionLevel_Auto192E9CA4C46E206F5B489CA816B6C8077.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto1.umap'
+[2017.03.30-00.56.46:591][310]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto1.umap
+[2017.03.30-00.56.46:595][310]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.064
+[2017.03.30-00.56.46:595][310]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2017.03.30-01.02.16:283][698]Recompiling BatteryCollector...
+[2017.03.30-01.02.16:283][698]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 4824 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.02.16:285][698]Warning: Starting HotReload took  0.3s.
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:02:23 PM
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.3681083 seconds
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: Info Performing 4 actions (9 in parallel)
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: Info BatteryCollector.generated.cpp
+[2017.03.30-01.02.23:966][562]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(96) : error C2039: 'HandleCurrentState': is not a member of 'ABatteryCollectorGameMode'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error c:\users\jaybyrrd\documents\unreal projects\batterycollector\source\batterycollector\BatteryCollectorGameMode.h(17) : note: see declaration of 'ABatteryCollectorGameMode'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(100) : error C2065: 'SpawnVolumeActors': undeclared identifier
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(101) : error C3312: no callable 'begin' function found for type 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(101) : error C3312: no callable 'end' function found for type 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(102) : error C2065: 'Volume': undeclared identifier
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(102) : error C2227: left of '->SetSpawningActive' must point to class/struct/union/generic type
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(102) : note: type is 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(108) : error C2065: 'SpawnVolumeActors': undeclared identifier
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(109) : error C3312: no callable 'begin' function found for type 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(109) : error C3312: no callable 'end' function found for type 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(110) : error C2065: 'Volume': undeclared identifier
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(110) : error C2227: left of '->SetSpawningActive' must point to class/struct/union/generic type
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(110) : note: type is 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(116) : error C2065: 'SpawnVolumeActors': undeclared identifier
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(117) : error C3312: no callable 'begin' function found for type 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(117) : error C3312: no callable 'end' function found for type 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(118) : error C2065: 'Volume': undeclared identifier
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(118) : error C2227: left of '->SetSpawningActive' must point to class/struct/union/generic type
+[2017.03.30-01.02.23:967][562]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(118) : note: type is 'unknown-type'
+[2017.03.30-01.02.23:967][562]CompilerResultsLog: Info ERROR: UBT ERROR: Failed to produce item: C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Binaries\Win64\UE4Editor-BatteryCollector-4824.dll
+[2017.03.30-01.02.23:967][562]CompilerResultsLog: Info Total build time: 7.39 seconds (Local executor: 0.00 seconds)
+[2017.03.30-01.02.23:967][562]LogMainFrame: MainFrame: Module compiling took 7.707 seconds
+[2017.03.30-01.02.23:968][562]Warning: HotReload failed, recompile failed
+[2017.03.30-01.03.47:781][227]Recompiling BatteryCollector...
+[2017.03.30-01.03.47:781][227]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 6042 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.03.47:783][227]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:03:57 PM
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.6726707 seconds
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info Performing 3 actions (9 in parallel)
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info [2/3] Link UE4Editor-BatteryCollector-6042.dll
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info [3/3] Link UE4Editor-BatteryCollector-6042.lib
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6042.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6042.exp
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6042.suppressed.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6042.suppressed.exp
+[2017.03.30-01.03.57:099][298]CompilerResultsLog: Info Total build time: 9.09 seconds (Local executor: 3.34 seconds)
+[2017.03.30-01.03.57:099][298]LogMainFrame: MainFrame: Module compiling took 9.341 seconds
+[2017.03.30-01.03.57:158][298]LogClass: EBatteryPlayState HotReload.
+[2017.03.30-01.03.57:160][298]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2017.03.30-01.03.57:296][298]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2017.03.30-01.03.57:390][298]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2017.03.30-01.03.57:392][298]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2017.03.30-01.03.57:471][298]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2252 classes and 459 folders.
+[2017.03.30-01.03.57:474][298]Display: HotReload took  9.7s.
+[2017.03.30-01.03.59:759][563]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.03.59:772][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.03.59:772][563]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:03:59 PM)
+[2017.03.30-01.03.59:772][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.03.59:775][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002409s)
+[2017.03.30-01.03.59:776][563]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.03.59:776][563]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2017.03.30-01.03.59:776][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003547s)
+[2017.03.30-01.03.59:793][563]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.03.59:799][563]LogInit: FAudioDevice initialized.
+[2017.03.30-01.03.59:830][563]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.03.59:832][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.03.59
+[2017.03.30-01.03.59:833][563]LogWorld: Bringing up level for play took: 0.001392
+[2017.03.30-01.03.59:833][563]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.03.59:833][563]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.03.59:833][563]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.03.59:836][563]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.03.59:836][563]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.646
+[2017.03.30-01.05.21:807][136]Recompiling BatteryCollector...
+[2017.03.30-01.05.21:807][136]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 7198 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.05.21:808][136]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.05.29:882][ 77]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:05:29 PM
+[2017.03.30-01.05.29:882][ 77]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.05.29:882][ 77]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.05.29:882][ 77]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.05.29:882][ 77]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.5618667 seconds
+[2017.03.30-01.05.29:882][ 77]CompilerResultsLog: Info Performing 4 actions (9 in parallel)
+[2017.03.30-01.05.29:882][ 77]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.05.29:883][ 77]CompilerResultsLog: Info BatteryCollector.generated.cpp
+[2017.03.30-01.05.29:883][ 77]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(94) : error C3861: 'HandleNewState': identifier not found
+[2017.03.30-01.05.29:883][ 77]CompilerResultsLog: Info ERROR: UBT ERROR: Failed to produce item: C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Binaries\Win64\UE4Editor-BatteryCollector-7198.dll
+[2017.03.30-01.05.29:883][ 77]CompilerResultsLog: Info Total build time: 7.84 seconds (Local executor: 0.00 seconds)
+[2017.03.30-01.05.29:883][ 77]LogMainFrame: MainFrame: Module compiling took 8.100 seconds
+[2017.03.30-01.05.29:883][ 77]Warning: HotReload failed, recompile failed
+[2017.03.30-01.05.56:223][951]Recompiling BatteryCollector...
+[2017.03.30-01.05.56:223][951]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 265 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.05.56:225][951]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:06:04 PM
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.3194983 seconds
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info Performing 3 actions (9 in parallel)
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info [2/3] Link UE4Editor-BatteryCollector-265.dll
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info [3/3] Link UE4Editor-BatteryCollector-265.lib
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-265.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-265.exp
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-265.suppressed.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-265.suppressed.exp
+[2017.03.30-01.06.04:718][911]CompilerResultsLog: Info Total build time: 8.28 seconds (Local executor: 3.04 seconds)
+[2017.03.30-01.06.04:718][911]LogMainFrame: MainFrame: Module compiling took 8.515 seconds
+[2017.03.30-01.06.04:775][911]LogClass: EBatteryPlayState HotReload.
+[2017.03.30-01.06.04:776][911]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2017.03.30-01.06.04:890][911]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2017.03.30-01.06.04:981][911]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2017.03.30-01.06.04:983][911]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2017.03.30-01.06.05:007][911]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2252 classes and 459 folders.
+[2017.03.30-01.06.05:007][911]Display: HotReload took  8.8s.
+[2017.03.30-01.06.06:684][ 98]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.06.06:695][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.06.06:695][ 98]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:06:06 PM)
+[2017.03.30-01.06.06:695][ 98]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.06.06:697][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001997s)
+[2017.03.30-01.06.06:698][ 98]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.06.06:698][ 98]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2017.03.30-01.06.06:698][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.002835s)
+[2017.03.30-01.06.06:717][ 98]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.06.06:722][ 98]LogInit: FAudioDevice initialized.
+[2017.03.30-01.06.06:752][ 98]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.06.06:753][ 98]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.06.06
+[2017.03.30-01.06.06:754][ 98]LogWorld: Bringing up level for play took: 0.001345
+[2017.03.30-01.06.06:754][ 98]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.06.06:754][ 98]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.06.06:754][ 98]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.06.06:756][ 98]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.06.06:756][ 98]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.434
+[2017.03.30-01.06.10:636][556]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.06.10:636][556]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.10:636][556]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.06.10:636][556]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.10:636][556]LogClass: You have collected BP_BatteryPickup_C_4
+[2017.03.30-01.06.10:636][556]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.12:816][817]LogClass: You have collected BP_BatteryPickup_C_8
+[2017.03.30-01.06.12:816][817]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.13:832][937]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.06.13:832][937]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.13:832][937]LogClass: You have collected BP_BatteryPickup_C_10
+[2017.03.30-01.06.13:832][937]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.13:832][937]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.06.13:832][937]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.22:069][919]LogClass: You have collected BP_BatteryPickup_C_11
+[2017.03.30-01.06.22:069][919]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.22:069][919]LogClass: You have collected BP_BatteryPickup_C_9
+[2017.03.30-01.06.22:069][919]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.24:395][195]LogClass: You have collected BP_BatteryPickup_C_7
+[2017.03.30-01.06.24:395][195]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.06.25:832][366]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.06.25:832][366]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.07.42:052][193]Recompiling BatteryCollector...
+[2017.03.30-01.07.42:052][193]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 6685 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.07.42:053][193]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:07:51 PM
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.7036919 seconds
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info Performing 4 actions (9 in parallel)
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info BatteryCollector.generated.cpp
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info [3/4] Link UE4Editor-BatteryCollector-6685.dll
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info [4/4] Link UE4Editor-BatteryCollector-6685.lib
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6685.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6685.exp
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6685.suppressed.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6685.suppressed.exp
+[2017.03.30-01.07.51:386][751]CompilerResultsLog: Info Total build time: 8.88 seconds (Local executor: 3.04 seconds)
+[2017.03.30-01.07.51:386][751]LogMainFrame: MainFrame: Module compiling took 9.356 seconds
+[2017.03.30-01.07.51:448][751]LogClass: EBatteryPlayState HotReload.
+[2017.03.30-01.07.51:451][751]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2017.03.30-01.07.51:577][751]LogHotReload: Re-instancing BatteryCollectorGameMode after hot-reload.
+[2017.03.30-01.07.51:690][751]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2017.03.30-01.07.51:785][751]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2017.03.30-01.07.51:786][751]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2017.03.30-01.07.51:811][751]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2252 classes and 459 folders.
+[2017.03.30-01.07.51:811][751]Display: HotReload took  9.8s.
+[2017.03.30-01.07.59:357][143]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.07.59:369][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.07.59:369][143]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:07:59 PM)
+[2017.03.30-01.07.59:370][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.07.59:372][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002151s)
+[2017.03.30-01.07.59:372][143]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.07.59:372][143]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2017.03.30-01.07.59:373][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003060s)
+[2017.03.30-01.07.59:391][143]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.07.59:395][143]LogInit: FAudioDevice initialized.
+[2017.03.30-01.07.59:423][143]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.07.59:425][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.07.59
+[2017.03.30-01.07.59:425][143]LogWorld: Bringing up level for play took: 0.001268
+[2017.03.30-01.07.59:426][143]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.07.59:426][143]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.07.59:426][143]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.07.59:427][143]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.07.59:427][143]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.238
+[2017.03.30-01.08.01:310][365]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.08.01:310][365]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.01:756][418]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.08.01:756][418]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.02:308][484]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.08.02:308][484]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.26:745][595]Recompiling BatteryCollector...
+[2017.03.30-01.08.26:745][595]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 8661 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.08.26:746][595]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:08:35 PM
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.2704851 seconds
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info Performing 3 actions (9 in parallel)
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info [2/3] Link UE4Editor-BatteryCollector-8661.dll
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info [3/3] Link UE4Editor-BatteryCollector-8661.lib
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-8661.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-8661.exp
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-8661.suppressed.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-8661.suppressed.exp
+[2017.03.30-01.08.35:156][581]CompilerResultsLog: Info Total build time: 8.19 seconds (Local executor: 3.03 seconds)
+[2017.03.30-01.08.35:156][581]LogMainFrame: MainFrame: Module compiling took 8.432 seconds
+[2017.03.30-01.08.35:217][581]LogClass: EBatteryPlayState HotReload.
+[2017.03.30-01.08.35:218][581]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2017.03.30-01.08.35:330][581]LogHotReload: Re-instancing BatteryCollectorGameMode after hot-reload.
+[2017.03.30-01.08.35:438][581]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2017.03.30-01.08.35:528][581]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2017.03.30-01.08.35:529][581]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2017.03.30-01.08.35:554][581]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2252 classes and 459 folders.
+[2017.03.30-01.08.35:554][581]Display: HotReload took  8.8s.
+[2017.03.30-01.08.36:300][668]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.08.36:311][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.08.36:311][668]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:08:36 PM)
+[2017.03.30-01.08.36:311][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.08.36:313][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001845s)
+[2017.03.30-01.08.36:314][668]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.08.36:314][668]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2017.03.30-01.08.36:314][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.002649s)
+[2017.03.30-01.08.36:328][668]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.08.36:332][668]LogInit: FAudioDevice initialized.
+[2017.03.30-01.08.36:361][668]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.08.36:362][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.08.36
+[2017.03.30-01.08.36:363][668]LogWorld: Bringing up level for play took: 0.001223
+[2017.03.30-01.08.36:363][668]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.08.36:363][668]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.08.36:363][668]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.08.36:365][668]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.08.36:365][668]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.825
+[2017.03.30-01.08.38:144][879]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.08.38:144][879]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.38:616][934]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.08.38:616][934]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.39:073][988]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.08.39:073][988]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.39:899][ 87]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.08.39:899][ 87]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.40:733][187]LogClass: You have collected BP_BatteryPickup_C_4
+[2017.03.30-01.08.40:733][187]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.41:401][267]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.08.41:402][267]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.41:618][292]LogClass: You have collected BP_BatteryPickup_C_6
+[2017.03.30-01.08.41:618][292]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.42:285][372]LogClass: You have collected BP_BatteryPickup_C_7
+[2017.03.30-01.08.42:285][372]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.42:935][450]LogClass: You have collected BP_BatteryPickup_C_8
+[2017.03.30-01.08.42:935][450]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.43:593][527]LogClass: You have collected BP_BatteryPickup_C_9
+[2017.03.30-01.08.44:018][578]LogClass: You have collected BP_BatteryPickup_C_10
+[2017.03.30-01.08.44:018][578]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.44:454][629]LogClass: You have collected BP_BatteryPickup_C_11
+[2017.03.30-01.08.44:870][678]LogClass: You have collected BP_BatteryPickup_C_12
+[2017.03.30-01.08.44:870][678]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.45:669][772]LogClass: You have collected BP_BatteryPickup_C_13
+[2017.03.30-01.08.45:670][772]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.46:293][846]LogClass: You have collected BP_BatteryPickup_C_14
+[2017.03.30-01.08.46:293][846]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.46:495][870]LogClass: You have collected BP_BatteryPickup_C_15
+[2017.03.30-01.08.47:340][970]LogClass: You have collected BP_BatteryPickup_C_16
+[2017.03.30-01.08.47:341][970]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.48:026][ 52]LogClass: You have collected BP_BatteryPickup_C_17
+[2017.03.30-01.08.48:026][ 52]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.08.59:701][259]Recompiling BatteryCollector...
+[2017.03.30-01.08.59:701][259]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 3785 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.08.59:703][259]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:09:08 PM
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.2788578 seconds
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info Performing 3 actions (9 in parallel)
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info [2/3] Link UE4Editor-BatteryCollector-3785.dll
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info [3/3] Link UE4Editor-BatteryCollector-3785.lib
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-3785.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-3785.exp
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-3785.suppressed.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-3785.suppressed.exp
+[2017.03.30-01.09.08:058][ 88]CompilerResultsLog: Info Total build time: 8.14 seconds (Local executor: 2.94 seconds)
+[2017.03.30-01.09.08:058][ 88]LogMainFrame: MainFrame: Module compiling took 8.377 seconds
+[2017.03.30-01.09.08:112][ 88]LogClass: EBatteryPlayState HotReload.
+[2017.03.30-01.09.08:114][ 88]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2017.03.30-01.09.08:225][ 88]LogHotReload: Re-instancing BatteryCollectorGameMode after hot-reload.
+[2017.03.30-01.09.08:333][ 88]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2017.03.30-01.09.08:424][ 88]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0012 seconds. Added 5 classes and 2 folders.
+[2017.03.30-01.09.08:425][ 88]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2017.03.30-01.09.08:447][ 88]LogProperty:Warning: Serialized Class /Script/BatteryCollector.BatteryCollectorCharacter for a property of Class /Script/Engine.BoxComponent. Reference will be NULLed.
+    Property = ObjectProperty /Script/BatteryCollector.SpawnVolume:WhereToSpawn
+    Item = BatteryCollectorCharacter /Script/BatteryCollector.Default__BatteryCollectorCharacter
+[2017.03.30-01.09.08:447][ 88]LogProperty:Warning: Serialized Class /Script/BatteryCollector.BatteryCollectorCharacter for a property of Class /Script/Engine.SceneComponent. Reference will be NULLed.
+    Property = ObjectProperty /Script/Engine.Actor:RootComponent
+    Item = BatteryCollectorCharacter /Script/BatteryCollector.Default__BatteryCollectorCharacter
+[2017.03.30-01.09.08:447][ 88]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2252 classes and 459 folders.
+[2017.03.30-01.09.08:447][ 88]Display: HotReload took  8.8s.
+[2017.03.30-01.09.10:268][298]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.09.10:287][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.09.10:287][298]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:09:10 PM)
+[2017.03.30-01.09.10:287][298]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.09.10:289][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001933s)
+[2017.03.30-01.09.10:290][298]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.09.10:290][298]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2017.03.30-01.09.10:290][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.002873s)
+[2017.03.30-01.09.10:306][298]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.09.10:311][298]LogInit: FAudioDevice initialized.
+[2017.03.30-01.09.10:343][298]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.09.10:344][298]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.09.10
+[2017.03.30-01.09.10:345][298]LogWorld: Bringing up level for play took: 0.001312
+[2017.03.30-01.09.10:345][298]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.09.10:345][298]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.09.10:345][298]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.09.10:347][298]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.09.10:347][298]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.843
+[2017.03.30-01.09.12:101][507]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.09.12:101][507]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.09.12:101][507]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.09.12:101][507]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.09.12:790][589]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.09.12:790][589]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.09.13:933][724]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.09.13:933][724]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.09.14:622][806]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.09.14:622][806]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.09.14:622][806]LogClass: You have collected BP_BatteryPickup_C_4
+[2017.03.30-01.09.14:622][806]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.09.41:936][221]LogEditorViewport: Clicking on Actor (context menu): BP_DemoRoom_C (BP_DemoRoom)
+[2017.03.30-01.09.45:796][664]Cmd: SELECT NONE
+[2017.03.30-01.09.59:947][304]Cmd: EDIT COPY
+[2017.03.30-01.09.59:984][308]Cmd: EDIT CUT
+[2017.03.30-01.09.59:987][308]LogEditorActor: Deleted Actor: SpawnVolume
+[2017.03.30-01.09.59:994][308]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.03.30-01.10.00:963][424]Cmd: EDIT PASTE
+[2017.03.30-01.10.01:865][524]Cmd: EDIT COPY
+[2017.03.30-01.10.02:118][553]Cmd: EDIT PASTE
+[2017.03.30-01.10.04:526][829]Cmd: EDIT PASTE
+[2017.03.30-01.10.08:855][333]Cmd: EDIT PASTE
+[2017.03.30-01.10.12:044][693]Cmd: EDIT PASTE
+[2017.03.30-01.10.15:561][101]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.10.15:573][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.10.15:573][101]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:10:15 PM)
+[2017.03.30-01.10.15:573][101]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.10.15:576][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003106s)
+[2017.03.30-01.10.15:577][101]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.10.15:577][101]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2017.03.30-01.10.15:577][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004059s)
+[2017.03.30-01.10.15:594][101]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.10.15:598][101]LogInit: FAudioDevice initialized.
+[2017.03.30-01.10.15:636][101]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.10.15:638][101]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.10.15
+[2017.03.30-01.10.15:638][101]LogWorld: Bringing up level for play took: 0.001398
+[2017.03.30-01.10.15:638][101]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.10.15:638][101]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.10.15:638][101]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.10.15:640][101]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.10.15:640][101]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.45
+[2017.03.30-01.10.19:432][548]LogClass: You have collected BP_BatteryPickup_C_10
+[2017.03.30-01.10.19:433][548]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.19:433][548]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.10.19:433][548]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.19:433][548]LogClass: You have collected BP_BatteryPickup_C_15
+[2017.03.30-01.10.19:433][548]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.19:935][607]LogClass: You have collected BP_BatteryPickup_C_18
+[2017.03.30-01.10.19:935][607]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.19:935][607]LogClass: You have collected BP_BatteryPickup_C_6
+[2017.03.30-01.10.19:935][607]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:252][645]LogClass: You have collected BP_BatteryPickup_C_16
+[2017.03.30-01.10.20:252][645]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:252][645]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.10.20:252][645]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:252][645]LogClass: You have collected BP_BatteryPickup_C_24
+[2017.03.30-01.10.20:252][645]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:252][645]LogClass: You have collected BP_BatteryPickup_C_8
+[2017.03.30-01.10.20:252][645]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:418][665]LogClass: You have collected BP_BatteryPickup_C_22
+[2017.03.30-01.10.20:418][665]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:418][665]LogClass: You have collected BP_BatteryPickup_C_19
+[2017.03.30-01.10.20:418][665]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:418][665]LogClass: You have collected BP_BatteryPickup_C_13
+[2017.03.30-01.10.20:418][665]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:603][687]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.10.20:603][687]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.20:603][687]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.10.20:604][687]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.10.31:121][914]LogEditorActor: Deleted Actor: SpawnVolume
+[2017.03.30-01.10.31:128][914]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.03.30-01.10.31:688][976]LogEditorActor: Deleted Actor: SpawnVolume
+[2017.03.30-01.10.31:702][976]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.03.30-01.10.32:359][ 50]LogEditorActor: Deleted Actor: SpawnVolume
+[2017.03.30-01.10.32:365][ 50]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2017.03.30-01.10.33:624][188]LogEditorActor: Deleted Actor: SpawnVolume
+[2017.03.30-01.10.33:631][188]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.03.30-01.11.07:447][414]LogSavePackage: Save=38.24ms
+[2017.03.30-01.11.07:447][414]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/CollectionLevel_Auto2C0916A644447FF980BD06A981EC9AB4F.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto2.umap'
+[2017.03.30-01.11.07:450][414]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto2.umap
+[2017.03.30-01.11.07:452][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.067
+[2017.03.30-01.11.07:452][414]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.067
+[2017.03.30-01.14.37:289][214]Recompiling BatteryCollector...
+[2017.03.30-01.14.37:290][214]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 5695 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.14.37:291][214]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.14.45:163][ 82]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:14:45 PM
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.4443704 seconds
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info Performing 3 actions (9 in parallel)
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(135) : error C2360: initialization of 'MyCharacter' is skipped by 'case' label
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(127) : note: see declaration of 'MyCharacter'
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(135) : error C2360: initialization of 'PlayerController' is skipped by 'case' label
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(121) : note: see declaration of 'PlayerController'
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(139) : error C2361: initialization of 'MyCharacter' is skipped by 'default' label
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(127) : note: see declaration of 'MyCharacter'
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(139) : error C2361: initialization of 'PlayerController' is skipped by 'default' label
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog:Error: Error C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollectorGameMode.cpp(121) : note: see declaration of 'PlayerController'
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info ERROR: UBT ERROR: Failed to produce item: C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Binaries\Win64\UE4Editor-BatteryCollector-5695.dll
+[2017.03.30-01.14.45:164][ 82]CompilerResultsLog: Info Total build time: 7.61 seconds (Local executor: 0.00 seconds)
+[2017.03.30-01.14.45:164][ 82]LogMainFrame: MainFrame: Module compiling took 7.897 seconds
+[2017.03.30-01.14.45:164][ 82]Warning: HotReload failed, recompile failed
+[2017.03.30-01.15.25:789][267]Recompiling BatteryCollector...
+[2017.03.30-01.15.25:789][267]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 1419 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.15.25:790][267]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:15:34 PM
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.3053635 seconds
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info Performing 3 actions (9 in parallel)
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info [2/3] Link UE4Editor-BatteryCollector-1419.dll
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info [3/3] Link UE4Editor-BatteryCollector-1419.lib
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1419.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1419.exp
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1419.suppressed.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1419.suppressed.exp
+[2017.03.30-01.15.34:117][983]CompilerResultsLog: Info Total build time: 8.12 seconds (Local executor: 2.93 seconds)
+[2017.03.30-01.15.34:117][983]LogMainFrame: MainFrame: Module compiling took 8.350 seconds
+[2017.03.30-01.15.34:183][983]LogClass: EBatteryPlayState HotReload.
+[2017.03.30-01.15.34:184][983]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2017.03.30-01.15.34:299][983]LogHotReload: Re-instancing BatteryCollectorGameMode after hot-reload.
+[2017.03.30-01.15.34:411][983]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2017.03.30-01.15.34:411][983]LogUObjectGlobals:Warning: Guid referenced by BoxComponent /Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.SpawnVolume1.WhereToSpawn is already used by BoxComponent /Game/Maps/CollectionLevel.CollectionLevel:PersistentLevel.SpawnVolume_11.WhereToSpawn, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2017.03.30-01.15.34:487][983]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0012 seconds. Added 5 classes and 2 folders.
+[2017.03.30-01.15.34:488][983]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2017.03.30-01.15.34:511][983]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2252 classes and 459 folders.
+[2017.03.30-01.15.34:511][983]Display: HotReload took  8.7s.
+[2017.03.30-01.15.36:794][256]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.15.36:807][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.15.36:807][256]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:15:36 PM)
+[2017.03.30-01.15.36:807][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.15.36:810][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002569s)
+[2017.03.30-01.15.36:811][256]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.15.36:811][256]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2017.03.30-01.15.36:811][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003508s)
+[2017.03.30-01.15.36:826][256]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.15.36:832][256]LogInit: FAudioDevice initialized.
+[2017.03.30-01.15.36:866][256]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.15.36:868][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.15.36
+[2017.03.30-01.15.36:869][256]LogWorld: Bringing up level for play took: 0.001476
+[2017.03.30-01.15.36:869][256]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.15.36:869][256]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.15.36:869][256]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.15.36:871][256]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.15.36:871][256]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.319
+[2017.03.30-01.15.53:037][174]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2017.03.30-01.15.53:816][254]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.15.53:827][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.15.53:827][254]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:15:53 PM)
+[2017.03.30-01.15.53:827][254]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.15.53:829][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001938s)
+[2017.03.30-01.15.53:830][254]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.15.53:830][254]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2017.03.30-01.15.53:830][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.002793s)
+[2017.03.30-01.15.53:846][254]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.15.53:849][254]LogInit: FAudioDevice initialized.
+[2017.03.30-01.15.53:878][254]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.15.53:880][254]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.15.53
+[2017.03.30-01.15.53:880][254]LogWorld: Bringing up level for play took: 0.001197
+[2017.03.30-01.15.53:881][254]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.15.53:881][254]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.15.53:881][254]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.15.53:882][254]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.15.53:882][254]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.693
+[2017.03.30-01.16.23:932][126]LogContentBrowser: Native class hierarchy updated for 'PhAT' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.03.30-01.16.24:141][126]LogRenderer: Reallocating scene render targets to support 1208x924 NumSamples 1 (Frame:45140).
+[2017.03.30-01.16.39:688][606]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.03.30-01.16.39:834][606]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.03.30-01.16.39:943][606]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.03.30-01.16.52:991][825]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.03.30-01.16.53:413][825]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 112 classes and 0 folders.
+[2017.03.30-01.16.53:722][825]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.03.30-01.16.53:841][825]LogSlate: Took 0.003643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.03.30-01.16.59:873][353]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.03.30-01.16.59:914][353]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2017.03.30-01.17.12:406][333]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.03.30-01.17.12:447][333]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_3.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.03.30-01.17.33:045][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2017.03.30-01.17.33:111][299]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2017.03.30-01.19.01:493][720]LogSavePackage: Save=11.35ms
+[2017.03.30-01.19.01:493][720]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/SK_Mannequin_Physics73F5574A44B0D14F3CEF79A6DDE3D623.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Mannequin/Character/Mesh/SK_Mannequin_Physics.uasset'
+[2017.03.30-01.19.01:498][720]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Mannequin/Character/Mesh/SK_Mannequin_Physics.uasset
+[2017.03.30-01.19.04:808][ 22]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.19.04:819][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.19.04:820][ 22]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:19:04 PM)
+[2017.03.30-01.19.04:820][ 22]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.19.04:822][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002275s)
+[2017.03.30-01.19.04:823][ 22]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.19.04:823][ 22]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2017.03.30-01.19.04:823][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003213s)
+[2017.03.30-01.19.04:851][ 22]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.19.04:855][ 22]LogInit: FAudioDevice initialized.
+[2017.03.30-01.19.04:883][ 22]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.19.04:885][ 22]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.19.04
+[2017.03.30-01.19.04:885][ 22]LogWorld: Bringing up level for play took: 0.001245
+[2017.03.30-01.19.04:886][ 22]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.19.04:886][ 22]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.19.04:886][ 22]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.19.04:887][ 22]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.19.04:887][ 22]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.303
+[2017.03.30-01.20.38:718][245]LogRenderer: Reallocating scene render targets to support 1348x924 NumSamples 1 (Frame:79759).
+[2017.03.30-01.21.34:616][390]LogSavePackage: Save=30.26ms
+[2017.03.30-01.21.34:616][390]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/ThirdPersonCharacterD5842B824623B8D1F9657883002EA6CE.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.30-01.21.34:619][390]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.30-01.21.37:690][666]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.30-01.21.40:736][963]LogSavePackage: Save=28.25ms
+[2017.03.30-01.21.40:736][963]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/ThirdPersonCharacterE407154842BD8101A6B6B092323D47EA.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.30-01.21.40:738][963]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.30-01.21.43:019][206]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.21.43:035][206]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.21.43:035][206]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:21:43 PM)
+[2017.03.30-01.21.43:035][206]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.21.43:037][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002112s)
+[2017.03.30-01.21.43:038][206]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.21.43:038][206]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2017.03.30-01.21.43:038][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003234s)
+[2017.03.30-01.21.43:058][206]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.21.43:063][206]LogInit: FAudioDevice initialized.
+[2017.03.30-01.21.43:096][206]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.21.43:098][206]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.21.43
+[2017.03.30-01.21.43:098][206]LogWorld: Bringing up level for play took: 0.001343
+[2017.03.30-01.21.43:098][206]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.21.43:098][206]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.21.43:098][206]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.21.43:100][206]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.21.43:100][206]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.09
+[2017.03.30-01.22.24:023][808]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2017.03.30-01.22.25:048][927]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2017.03.30-01.22.27:544][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.30-01.22.28:383][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.30-01.22.43:274][ 60]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Source/BatteryCollector/BatteryCollectorGameMode.h'
+[2017.03.30-01.22.43:743][ 60]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Source/BatteryCollector/BatteryCollectorGameMode.cpp'
+[2017.03.30-01.23.12:362][188]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Source/BatteryCollector/BatteryCollectorGameMode.h'
+[2017.03.30-01.23.12:412][188]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Source/BatteryCollector/BatteryCollectorGameMode.cpp'
+[2017.03.30-01.23.30:310][841]Recompiling BatteryCollector...
+[2017.03.30-01.23.30:310][841]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 7914 Win64 Development -editorrecompile -canskiplink "C:/Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/BatteryCollector.uproject" ]
+[2017.03.30-01.23.30:311][841]Warning: Starting HotReload took  0.0s.
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: New page: Compilation - Mar 29, 2017, 5:23:38 PM
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info Parsing headers for BatteryCollectorEditor
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\BatteryCollector.uproject" "C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info Reflection code generated for BatteryCollectorEditor in 3.257245 seconds
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info Performing 3 actions (9 in parallel)
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info BatteryCollectorGameMode.cpp
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info [2/3] Link UE4Editor-BatteryCollector-7914.dll
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info [3/3] Link UE4Editor-BatteryCollector-7914.lib
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7914.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7914.exp
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info    Creating library C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7914.suppressed.lib and object C:\Users\JayByrrd\Documents\Unreal Projects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7914.suppressed.exp
+[2017.03.30-01.23.38:676][793]CompilerResultsLog: Info Total build time: 8.12 seconds (Local executor: 2.94 seconds)
+[2017.03.30-01.23.38:676][793]LogMainFrame: MainFrame: Module compiling took 8.388 seconds
+[2017.03.30-01.23.38:739][793]LogClass: EBatteryPlayState HotReload.
+[2017.03.30-01.23.38:741][793]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2017.03.30-01.23.39:052][793]LogHotReload: Re-instancing BatteryCollectorGameMode after hot-reload.
+[2017.03.30-01.23.39:233][793]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2017.03.30-01.23.39:344][793]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2017.03.30-01.23.39:346][793]Display: HotReload successful (11 functions remapped  0 scriptstructs remapped)
+[2017.03.30-01.23.39:555][793]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2254 classes and 463 folders.
+[2017.03.30-01.23.39:555][793]Display: HotReload took  9.3s.
+[2017.03.30-01.23.41:363][946]Cmd: SELECT NONE
+[2017.03.30-01.23.53:541][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode_BP" FILE="../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Blueprints/GameMode_BP.uasset" SILENT=true
+[2017.03.30-01.23.53:557][140]LogSavePackage: Save=9.71ms
+[2017.03.30-01.23.53:557][140]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/GameMode_BPE56B6B2F40AF9DE744CE76B10DECFE14.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Blueprints/GameMode_BP.uasset'
+[2017.03.30-01.23.53:560][140]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Content/Blueprints/GameMode_BP.uasset
+[2017.03.30-01.23.54:351][227]BlueprintLog: New page: Compile GameMode_BP
+[2017.03.30-01.23.56:215][418]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.23.56:230][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.23.56:230][418]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:23:56 PM)
+[2017.03.30-01.23.56:230][418]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.23.56:232][418]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002096s)
+[2017.03.30-01.23.56:232][418]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.23.56:233][418]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2017.03.30-01.23.56:233][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.002871s)
+[2017.03.30-01.23.56:252][418]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.23.56:257][418]LogInit: FAudioDevice initialized.
+[2017.03.30-01.23.56:290][418]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.23.56:291][418]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.23.56
+[2017.03.30-01.23.56:292][418]LogWorld: Bringing up level for play took: 0.001219
+[2017.03.30-01.23.56:292][418]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.23.56:292][418]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.23.56:292][418]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.23.56:294][418]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.23.56:294][418]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.896
+[2017.03.30-01.24.10:853][ 87]BlueprintLog: New page: Compile GameMode_BP
+[2017.03.30-01.24.15:369][594]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.24.15:381][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.24.15:381][594]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:24:15 PM)
+[2017.03.30-01.24.15:381][594]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.24.15:383][594]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001947s)
+[2017.03.30-01.24.15:383][594]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.24.15:383][594]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2017.03.30-01.24.15:384][594]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.002758s)
+[2017.03.30-01.24.15:405][594]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.24.15:409][594]LogInit: FAudioDevice initialized.
+[2017.03.30-01.24.15:446][594]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.24.15:448][594]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.24.15
+[2017.03.30-01.24.15:448][594]LogWorld: Bringing up level for play took: 0.001348
+[2017.03.30-01.24.15:449][594]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.24.15:449][594]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.24.15:449][594]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.24.15:450][594]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.24.15:450][594]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.26
+[2017.03.30-01.24.21:494][312]LogClass: You have collected BP_BatteryPickup_C_4
+[2017.03.30-01.24.21:494][312]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.21:494][312]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.24.21:494][312]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.21:494][312]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.24.21:494][312]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.21:494][312]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.24.21:495][312]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.21:495][312]LogClass: You have collected BP_BatteryPickup_C_6
+[2017.03.30-01.24.21:495][312]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.22:245][402]LogClass: You have collected BP_BatteryPickup_C_8
+[2017.03.30-01.24.22:245][402]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.22:245][402]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.24.22:245][402]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.22:245][402]LogClass: You have collected BP_BatteryPickup_C_7
+[2017.03.30-01.24.22:245][402]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.22:796][468]LogClass: You have collected BP_BatteryPickup_C_9
+[2017.03.30-01.24.22:796][468]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.23:512][554]LogClass: You have collected BP_BatteryPickup_C_10
+[2017.03.30-01.24.23:513][554]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.24:189][633]LogClass: You have collected BP_BatteryPickup_C_11
+[2017.03.30-01.24.24:189][633]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.24:525][673]LogClass: You have collected BP_BatteryPickup_C_12
+[2017.03.30-01.24.24:525][673]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.25:076][739]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.24.25:077][739]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.25:077][739]LogClass: You have collected BP_BatteryPickup_C_13
+[2017.03.30-01.24.25:077][739]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.25:593][801]LogClass: You have collected BP_BatteryPickup_C_14
+[2017.03.30-01.24.25:593][801]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.26:085][860]LogClass: You have collected BP_BatteryPickup_C_15
+[2017.03.30-01.24.26:085][860]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.26:890][956]LogClass: You have collected BP_BatteryPickup_C_16
+[2017.03.30-01.24.26:890][956]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.27:324][  8]LogClass: You have collected BP_BatteryPickup_C_17
+[2017.03.30-01.24.27:324][  8]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.24.38:232][300]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.24.38:245][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.24.38:245][300]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:24:38 PM)
+[2017.03.30-01.24.38:245][300]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.24.38:247][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001890s)
+[2017.03.30-01.24.38:247][300]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.24.38:247][300]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2017.03.30-01.24.38:247][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.002624s)
+[2017.03.30-01.24.38:272][300]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.24.38:278][300]LogInit: FAudioDevice initialized.
+[2017.03.30-01.24.38:311][300]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.24.38:313][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.24.38
+[2017.03.30-01.24.38:313][300]LogWorld: Bringing up level for play took: 0.001194
+[2017.03.30-01.24.38:313][300]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.24.38:313][300]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.24.38:313][300]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.24.38:315][300]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.24.38:315][300]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.875
+[2017.03.30-01.24.57:930][630]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.24.57:942][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.24.57:942][630]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:24:57 PM)
+[2017.03.30-01.24.57:942][630]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.24.57:945][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002312s)
+[2017.03.30-01.24.57:945][630]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.24.57:945][630]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2017.03.30-01.24.57:945][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003069s)
+[2017.03.30-01.24.57:964][630]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.24.57:970][630]LogInit: FAudioDevice initialized.
+[2017.03.30-01.24.58:007][630]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.24.58:008][630]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.24.58
+[2017.03.30-01.24.58:009][630]LogWorld: Bringing up level for play took: 0.001301
+[2017.03.30-01.24.58:009][630]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.24.58:009][630]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.24.58:009][630]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.24.58:011][630]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.24.58:011][630]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.821
+[2017.03.30-01.25.15:513][697]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.25.15:525][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.25.15:525][697]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:25:15 PM)
+[2017.03.30-01.25.15:525][697]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.25.15:528][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003141s)
+[2017.03.30-01.25.15:529][697]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.25.15:529][697]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2017.03.30-01.25.15:529][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004247s)
+[2017.03.30-01.25.15:551][697]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.25.15:555][697]LogInit: FAudioDevice initialized.
+[2017.03.30-01.25.15:588][697]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.25.15:590][697]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.25.15
+[2017.03.30-01.25.15:590][697]LogWorld: Bringing up level for play took: 0.001313
+[2017.03.30-01.25.15:591][697]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.25.15:591][697]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.25.15:591][697]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.25.15:592][697]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.25.15:592][697]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.402
+[2017.03.30-01.25.29:676][367]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.25.29:688][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.25.29:689][367]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:25:29 PM)
+[2017.03.30-01.25.29:689][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.25.29:692][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002886s)
+[2017.03.30-01.25.29:692][367]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.25.29:692][367]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2017.03.30-01.25.29:692][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003669s)
+[2017.03.30-01.25.29:714][367]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.25.29:718][367]LogInit: FAudioDevice initialized.
+[2017.03.30-01.25.29:751][367]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.25.29:753][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.25.29
+[2017.03.30-01.25.29:754][367]LogWorld: Bringing up level for play took: 0.001389
+[2017.03.30-01.25.29:754][367]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.25.29:754][367]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.25.29:754][367]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.25.29:755][367]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.25.29:755][367]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.565
+[2017.03.30-01.26.10:240][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.013
+[2017.03.30-01.26.10:241][132]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameMode_BP] ([1] browsable assets)...
+[2017.03.30-01.26.10:241][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameMode_BP]
+[2017.03.30-01.26.10:253][132]LogSavePackage: Save=8.85ms
+[2017.03.30-01.26.10:253][132]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/GameMode_BP_Auto3BA0512F14274E684EE1D9BA1A17386F2.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Blueprints/GameMode_BP_Auto3.uasset'
+[2017.03.30-01.26.10:254][132]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Blueprints/GameMode_BP_Auto3.uasset
+[2017.03.30-01.26.10:254][132]LogFileHelpers: Auto-saving content packages took 0.014
+[2017.03.30-01.31.02:984][240]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.31.02:996][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.31.02:996][240]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:31:02 PM)
+[2017.03.30-01.31.02:996][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.31.02:999][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003095s)
+[2017.03.30-01.31.03:000][240]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.31.03:000][240]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2017.03.30-01.31.03:001][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004309s)
+[2017.03.30-01.31.03:025][240]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.31.03:030][240]LogInit: FAudioDevice initialized.
+[2017.03.30-01.31.03:058][240]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.31.03:061][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.31.03
+[2017.03.30-01.31.03:061][240]LogWorld: Bringing up level for play took: 0.001668
+[2017.03.30-01.31.03:061][240]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.31.03:061][240]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.31.03:061][240]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.31.03:063][240]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.31.03:063][240]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.126
+[2017.03.30-01.31.07:632][781]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.31.07:633][781]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.07:633][781]LogClass: You have collected BP_BatteryPickup_C_4
+[2017.03.30-01.31.07:633][781]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.09:474][  0]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.31.09:475][  0]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.09:475][  0]LogClass: You have collected BP_BatteryPickup_C_7
+[2017.03.30-01.31.09:475][  0]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.10:103][ 75]LogClass: You have collected BP_BatteryPickup_C_8
+[2017.03.30-01.31.10:103][ 75]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.10:488][121]LogClass: You have collected BP_BatteryPickup_C_9
+[2017.03.30-01.31.10:488][121]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.10:876][167]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.31.10:876][167]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.11:076][191]LogClass: You have collected BP_BatteryPickup_C_10
+[2017.03.30-01.31.11:076][191]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.11:794][277]LogClass: You have collected BP_BatteryPickup_C_11
+[2017.03.30-01.31.11:794][277]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.12:052][308]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.31.12:052][308]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.12:052][308]LogClass: You have collected BP_BatteryPickup_C_6
+[2017.03.30-01.31.12:052][308]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.13:761][509]LogClass: You have collected BP_BatteryPickup_C_14
+[2017.03.30-01.31.13:761][509]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.13:761][509]LogClass: You have collected BP_BatteryPickup_C_13
+[2017.03.30-01.31.13:761][509]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.15:170][677]LogClass: You have collected BP_BatteryPickup_C_12
+[2017.03.30-01.31.15:170][677]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.16:353][817]LogClass: You have collected BP_BatteryPickup_C_18
+[2017.03.30-01.31.16:353][817]LogClass: You have collected BP_BatteryPickup_C_15
+[2017.03.30-01.31.16:354][817]LogClass: You have collected BP_BatteryPickup_C_16
+[2017.03.30-01.31.17:527][957]LogClass: You have collected BP_BatteryPickup_C_17
+[2017.03.30-01.31.17:527][957]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.18:453][ 68]LogClass: You have collected BP_BatteryPickup_C_22
+[2017.03.30-01.31.18:453][ 68]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.18:453][ 68]LogClass: You have collected BP_BatteryPickup_C_19
+[2017.03.30-01.31.18:453][ 68]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.18:453][ 68]LogClass: You have collected BP_BatteryPickup_C_20
+[2017.03.30-01.31.18:454][ 68]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.21:046][375]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.31.21:046][375]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.21:744][458]LogClass: You have collected BP_BatteryPickup_C_24
+[2017.03.30-01.31.21:744][458]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.21:945][482]LogClass: You have collected BP_BatteryPickup_C_26
+[2017.03.30-01.31.21:945][482]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.21:945][482]LogClass: You have collected BP_BatteryPickup_C_27
+[2017.03.30-01.31.21:945][482]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.21:945][482]LogClass: You have collected BP_BatteryPickup_C_28
+[2017.03.30-01.31.21:945][482]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.23:211][632]LogClass: You have collected BP_BatteryPickup_C_25
+[2017.03.30-01.31.23:212][632]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.23:428][658]LogClass: You have collected BP_BatteryPickup_C_30
+[2017.03.30-01.31.23:428][658]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.25:102][854]LogClass: You have collected BP_BatteryPickup_C_29
+[2017.03.30-01.31.25:102][854]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.26:088][970]LogClass: You have collected BP_BatteryPickup_C_23
+[2017.03.30-01.31.26:088][970]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.31.32:383][711]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2017.03.30-01.31.33:527][842]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
+[2017.03.30-01.32.10:258][103]LogEditorViewport: Clicking Background
+[2017.03.30-01.33.37:482][944]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.30-01.33.38:050][ 11]LogEditorViewport: Clicking Background
+[2017.03.30-01.33.46:413][983]MapCheck: New page: Map Check
+[2017.03.30-01.33.46:468][983]LightingResults: New page: Lighting Build - Mar 29, 2017, 5:33:46 PM
+[2017.03.30-01.33.46:564][983]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.03.30-01.33.46:642][983]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.03.30-01.33.46:653][983]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.03.30-01.33.47:165][983]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.03.30-01.33.47:165][983]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1012
+[2017.03.30-01.33.49:882][983]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.03.30-01.33.49:883][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.03.30-01.33.49:883][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.03.30-01.33.49:883][983]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.03.30-01.33.49:883][983]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.03.30-01.33.49:883][983]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.03.30-01.33.50:029][983]LogEditorBuildUtils: Build time 0:03
+[2017.03.30-01.33.53:160][191]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.33.53:181][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.33.53:182][191]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:33:53 PM)
+[2017.03.30-01.33.53:182][191]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.33.53:185][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003313s)
+[2017.03.30-01.33.53:186][191]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.33.53:186][191]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2017.03.30-01.33.53:186][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.004606s)
+[2017.03.30-01.33.53:215][191]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.33.53:222][191]LogInit: FAudioDevice initialized.
+[2017.03.30-01.33.53:256][191]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.33.53:260][191]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.33.53
+[2017.03.30-01.33.53:261][191]LogWorld: Bringing up level for play took: 0.001964
+[2017.03.30-01.33.53:261][191]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.33.53:261][191]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.33.53:261][191]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.33.53:263][191]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.33.53:263][191]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.074
+[2017.03.30-01.33.57:180][478]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.33.59:127][607]LogClass: You have collected BP_BatteryPickup_C_2
+[2017.03.30-01.33.59:989][672]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.34.00:093][682]Job is a success!
+[2017.03.30-01.34.01:131][799]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.34.01:131][799]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.02:028][906]LogClass: You have collected BP_BatteryPickup_C_7
+[2017.03.30-01.34.02:029][906]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.03:857][120]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.34.03:858][120]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.04:042][142]LogClass: You have collected BP_BatteryPickup_C_4
+[2017.03.30-01.34.04:042][142]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.05:004][256]LogClass: You have collected BP_BatteryPickup_C_6
+[2017.03.30-01.34.05:005][256]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.05:385][301]LogClass: You have collected BP_BatteryPickup_C_8
+[2017.03.30-01.34.05:385][301]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.07:219][519]LogClass: You have collected BP_BatteryPickup_C_12
+[2017.03.30-01.34.07:219][519]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.08:145][629]LogClass: You have collected BP_BatteryPickup_C_9
+[2017.03.30-01.34.08:145][629]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.21:967][234]MapCheck: New page: Map Check
+[2017.03.30-01.34.22:057][234]LogEditorBuildUtils: Build time 0:00
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024) - 119 MB total VRAM
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024) - 119 MB total VRAM
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024) - 119 MB total VRAM
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128) - 119 MB total VRAM
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024) - 119 MB total VRAM
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128) - 119 MB total VRAM
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64) - 119 MB total VRAM
+[2017.03.30-01.34.25:593][547]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64) - 119 MB total VRAM
+[2017.03.30-01.34.25:786][547]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32) - 119 MB total VRAM
+[2017.03.30-01.34.25:786][547]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8, 128X32) - 119 MB total VRAM
+[2017.03.30-01.34.25:786][547]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024) - 119 MB total VRAM
+[2017.03.30-01.34.25:814][547]Lightmass on DESKTOP-9S1GO0T: 34.9 sec total, 150 ms importing, 42 ms setup, 1.56 sec photons, 33.1 sec processing, 0 ms extra exporting [21/21 mappings]. Threads: 6:03 min total, 1:02 min processing.
+[2017.03.30-01.34.25:833][547]LogStaticLightingSystem: Illumination: 14.6 sec (633 ms encoding lightmaps, 192 ms encoding shadowmaps)
+[2017.03.30-01.34.25:833][547]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2017.03.30-01.34.25:833][547]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 3 textures
+[2017.03.30-01.34.25:902][547]DumpUnbuiltLightIteractions
+[2017.03.30-01.34.25:902][547]Lights with unbuilt interactions: 0
+[2017.03.30-01.34.25:902][547]
+[2017.03.30-01.34.25:902][547]Primitives with unbuilt interactions: 0
+[2017.03.30-01.34.25:910][548]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.03.30-01.34.25:911][548]MapCheck: New page: CollectionLevel - Mar 29, 2017, 5:34:25 PM
+[2017.03.30-01.34.25:961][548]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 50.36ms to complete.
+[2017.03.30-01.34.27:055][673]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.30-01.34.27:067][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-01.34.27:067][673]PIE: New page: PIE session: CollectionLevel (Mar 29, 2017, 5:34:27 PM)
+[2017.03.30-01.34.27:067][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2017.03.30-01.34.27:070][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002806s)
+[2017.03.30-01.34.27:070][673]LogAIModule: Creating AISystem for world CollectionLevel
+[2017.03.30-01.34.27:071][673]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2017.03.30-01.34.27:071][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.003829s)
+[2017.03.30-01.34.27:111][673]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-01.34.27:115][673]LogInit: FAudioDevice initialized.
+[2017.03.30-01.34.27:148][673]LogLoad: Game class is 'GameMode_BP_C'
+[2017.03.30-01.34.27:150][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2017.03.29-21.34.27
+[2017.03.30-01.34.27:150][673]LogWorld: Bringing up level for play took: 0.001398
+[2017.03.30-01.34.27:151][673]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.34.27:151][673]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.30-01.34.27:151][673]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.34.27:152][673]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.30-01.34.27:152][673]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.038
+[2017.03.30-01.34.31:794][223]LogClass: You have collected BP_BatteryPickup_C_1
+[2017.03.30-01.34.31:794][223]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.32:321][286]LogClass: You have collected BP_BatteryPickup_C_3
+[2017.03.30-01.34.32:321][286]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.33:455][421]LogClass: You have collected BP_BatteryPickup_C_9
+[2017.03.30-01.34.33:455][421]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.33:870][468]LogClass: You have collected BP_BatteryPickup_C_0
+[2017.03.30-01.34.35:194][622]LogClass: You have collected BP_BatteryPickup_C_10
+[2017.03.30-01.34.35:552][665]LogClass: You have collected BP_BatteryPickup_C_17
+[2017.03.30-01.34.35:552][665]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.35:759][689]LogClass: You have collected BP_BatteryPickup_C_13
+[2017.03.30-01.34.35:760][689]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.36:788][811]LogClass: You have collected BP_BatteryPickup_C_7
+[2017.03.30-01.34.36:788][811]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.37:186][858]LogClass: You have collected BP_BatteryPickup_C_12
+[2017.03.30-01.34.37:187][858]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.38:174][976]LogClass: You have collected BP_BatteryPickup_C_16
+[2017.03.30-01.34.38:174][976]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.38:416][  5]LogClass: You have collected BP_BatteryPickup_C_6
+[2017.03.30-01.34.38:416][  5]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.38:735][ 43]LogClass: You have collected BP_BatteryPickup_C_14
+[2017.03.30-01.34.38:735][ 43]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.39:591][142]LogClass: You have collected BP_BatteryPickup_C_15
+[2017.03.30-01.34.39:592][142]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.39:800][167]LogClass: You have collected BP_BatteryPickup_C_5
+[2017.03.30-01.34.39:800][167]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.40:633][267]LogClass: You have collected BP_BatteryPickup_C_26
+[2017.03.30-01.34.40:633][267]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.40:633][267]LogClass: You have collected BP_BatteryPickup_C_20
+[2017.03.30-01.34.40:633][267]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.42:287][464]LogClass: You have collected BP_BatteryPickup_C_19
+[2017.03.30-01.34.42:288][464]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.43:434][601]LogClass: You have collected BP_BatteryPickup_C_37
+[2017.03.30-01.34.43:434][601]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.43:626][624]LogClass: You have collected BP_BatteryPickup_C_36
+[2017.03.30-01.34.43:626][624]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.44:087][675]LogClass: You have collected BP_BatteryPickup_C_39
+[2017.03.30-01.34.44:087][675]LogClass: You have collected BP_BatteryPickup_C_46
+[2017.03.30-01.34.44:541][729]LogClass: You have collected BP_BatteryPickup_C_38
+[2017.03.30-01.34.44:541][729]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.45:945][896]LogClass: You have collected BP_BatteryPickup_C_35
+[2017.03.30-01.34.46:378][947]LogClass: You have collected BP_BatteryPickup_C_18
+[2017.03.30-01.34.46:378][947]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.46:842][  2]LogClass: You have collected BP_BatteryPickup_C_29
+[2017.03.30-01.34.46:842][  2]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.47:076][ 30]LogClass: You have collected BP_BatteryPickup_C_25
+[2017.03.30-01.34.47:076][ 30]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.48:420][189]LogClass: You have collected BP_BatteryPickup_C_50
+[2017.03.30-01.34.48:420][189]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.49:296][292]LogClass: You have collected BP_BatteryPickup_C_58
+[2017.03.30-01.34.49:296][292]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.49:547][321]LogClass: You have collected BP_BatteryPickup_C_55
+[2017.03.30-01.34.49:974][372]LogClass: You have collected BP_BatteryPickup_C_59
+[2017.03.30-01.34.49:974][372]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.50:374][420]LogClass: You have collected BP_BatteryPickup_C_49
+[2017.03.30-01.34.50:374][420]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.50:794][470]LogClass: You have collected BP_BatteryPickup_C_24
+[2017.03.30-01.34.50:794][470]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.51:003][495]LogClass: You have collected BP_BatteryPickup_C_45
+[2017.03.30-01.34.51:003][495]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.34.59:569][510]LogClass: You have collected BP_BatteryPickup_C_62
+[2017.03.30-01.34.59:569][510]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.00:501][620]LogClass: You have collected BP_BatteryPickup_C_33
+[2017.03.30-01.35.00:501][620]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.00:501][620]LogClass: You have collected BP_BatteryPickup_C_57
+[2017.03.30-01.35.00:501][620]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.02:047][805]LogClass: You have collected BP_BatteryPickup_C_66
+[2017.03.30-01.35.02:047][805]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.02:282][833]LogClass: You have collected BP_BatteryPickup_C_23
+[2017.03.30-01.35.02:282][833]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.02:940][912]LogClass: You have collected BP_BatteryPickup_C_22
+[2017.03.30-01.35.02:940][912]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.03:616][993]LogClass: You have collected BP_BatteryPickup_C_47
+[2017.03.30-01.35.03:616][993]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.03:809][ 14]LogClass: You have collected BP_BatteryPickup_C_54
+[2017.03.30-01.35.03:809][ 14]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.04:027][ 40]LogClass: You have collected BP_BatteryPickup_C_71
+[2017.03.30-01.35.04:028][ 40]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.04:477][ 93]LogClass: You have collected BP_BatteryPickup_C_32
+[2017.03.30-01.35.04:478][ 93]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.05:165][175]LogClass: You have collected BP_BatteryPickup_C_43
+[2017.03.30-01.35.05:165][175]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.05:165][175]LogClass: You have collected BP_BatteryPickup_C_56
+[2017.03.30-01.35.05:165][175]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.06:093][286]LogClass: You have collected BP_BatteryPickup_C_65
+[2017.03.30-01.35.06:093][286]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.06:555][341]LogClass: You have collected BP_BatteryPickup_C_48
+[2017.03.30-01.35.06:555][341]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.07:021][397]LogClass: You have collected BP_BatteryPickup_C_27
+[2017.03.30-01.35.07:021][397]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.07:255][425]LogClass: You have collected BP_BatteryPickup_C_60
+[2017.03.30-01.35.07:255][425]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.07:471][451]LogClass: You have collected BP_BatteryPickup_C_63
+[2017.03.30-01.35.07:471][451]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.07:691][477]LogClass: You have collected BP_BatteryPickup_C_8
+[2017.03.30-01.35.07:691][477]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.07:892][501]LogClass: You have collected BP_BatteryPickup_C_74
+[2017.03.30-01.35.07:892][501]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.35.08:886][617]LogClass: You have collected BP_BatteryPickup_C_4
+[2017.03.30-01.35.22:894][286]LogClass: You have collected BP_BatteryPickup_C_70
+[2017.03.30-01.35.22:895][286]LogScript:Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2017.03.30-01.37.51:636][234]LogSavePackage: Save=27.25ms
+[2017.03.30-01.37.51:636][234]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/CollectionLevel_Auto4262C875A417133C5B78C2FB4A096224C.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto4.umap'
+[2017.03.30-01.37.51:637][234]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto4.umap
+[2017.03.30-01.37.51:638][234]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.051
+[2017.03.30-01.37.51:638][234]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2017.03.30-01.37.51:640][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/CollectionLevel_BuiltData] ([1] browsable assets)...
+[2017.03.30-01.37.51:640][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/CollectionLevel_BuiltData]
+[2017.03.30-01.37.51:691][234]LogSavePackage: Save=13.61ms
+[2017.03.30-01.37.51:691][234]LogSavePackage: Moving '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/CollectionLevel_BuiltData_Auto4CA8611DE4A6C44CF8C3427A475D26A8E.tmp' to '../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_BuiltData_Auto4.uasset'
+[2017.03.30-01.37.51:692][234]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/JayByrrd/Documents/Unreal Projects/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_BuiltData_Auto4.uasset
+[2017.03.30-01.37.51:693][234]LogFileHelpers: Auto-saving content packages took 0.053

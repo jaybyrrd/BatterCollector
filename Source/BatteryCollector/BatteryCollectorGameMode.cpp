@@ -15,7 +15,7 @@ ABatteryCollectorGameMode::ABatteryCollectorGameMode()
     {
         DefaultPawnClass = PlayerPawnBPClass.Class;
     }
-    DecayRate = 0.01f;
+    DecayRate = 0.085f;
 }
 
 void ABatteryCollectorGameMode::Tick(float DeltaTime)
@@ -46,6 +46,20 @@ void ABatteryCollectorGameMode::Tick(float DeltaTime)
 void ABatteryCollectorGameMode::BeginPlay()
 {
     Super::BeginPlay();
+
+    //Find all the spawn volume actors
+    TArray<AActor*> FoundActors;
+    UGameplayStatics::GetAllActorsOfClass(GetWorld(), ASpawnVolume::StaticClass(), FoundActors);
+
+    for (auto Actor : FoundActors)
+    {
+        ASpawnVolume* SpawnVolumeActor = Cast<ASpawnVolume>(Actor);
+        if (SpawnVolumeActor)
+        {
+            SpawnVolumeActors.AddUnique(SpawnVolumeActor);
+        }
+    }
+
     SetCurrentState(EBatteryPlayState::EPlaying);
 
     //set the score to win
@@ -62,18 +76,6 @@ void ABatteryCollectorGameMode::BeginPlay()
         if (CurrentWidget != nullptr)
             CurrentWidget->AddToViewport();
     }
-
-    TArray<AActor*> FoundActors;
-    UGameplayStatics::GetAllActorsOfClass(GetWorld(), ASpawnVolume::StaticClass(), FoundActors);
-
-    for (auto Actor : FoundActors)
-    {
-        ASpawnVolume* SpawnVolumeActor = Cast<ASpawnVolume>(Actor);
-        if (SpawnVolumeActor)
-        {
-            SpawnVolumeActors.AddUnique(SpawnVolumeActor);
-        }
-    }
 }
 
 float ABatteryCollectorGameMode::GetPowerToWin() const
@@ -89,4 +91,54 @@ EBatteryPlayState ABatteryCollectorGameMode::GetCurrentState() const
 void ABatteryCollectorGameMode::SetCurrentState(EBatteryPlayState NewState)
 {
     CurrentState = NewState;
+    HandleCurrentState();
+}
+
+void ABatteryCollectorGameMode::HandleCurrentState() {
+    switch (CurrentState) {
+    case EBatteryPlayState::EPlaying:
+        //Spawn volumes active
+        for (auto Volume : SpawnVolumeActors)
+        {
+            Volume->SetSpawningActive(true);
+        }
+        break;
+
+    case EBatteryPlayState::EWon:
+        //Spawn volumes inactive
+        for (auto Volume : SpawnVolumeActors)
+        {
+            Volume->SetSpawningActive(false);
+        }
+        break;
+
+    case EBatteryPlayState::EGameOver:
+    {
+        //Rag doll + spawn volumes inactive
+        for (auto Volume : SpawnVolumeActors)
+        {
+            Volume->SetSpawningActive(false);
+        }
+        APlayerController* PlayerController = UGameplayStatics::GetPlayerController(this, 0);
+        if (PlayerController)
+        {
+            PlayerController->SetCinematicMode(true, false, false, true, true);
+        }
+        ACharacter* MyCharacter = UGameplayStatics::GetPlayerCharacter(this, 0);
+        if (MyCharacter)
+        {
+            MyCharacter->GetMesh()->SetSimulatePhysics(true);
+        }
+
+        break;
+    }
+
+    case EBatteryPlayState::EUnknown:
+        //Unknown/default state
+        break;
+
+    default:
+        //same thing as unknown essentially.
+        break;
+    }
 }
