@@ -5,21 +5,21 @@ using System.Collections.Generic;
 
 public class BatteryCollectorEditorTarget : TargetRules
 {
-	public BatteryCollectorEditorTarget(TargetInfo Target)
-	{
-		Type = TargetType.Editor;
-	}
+    public BatteryCollectorEditorTarget(TargetInfo Target)
+    {
+        Type = TargetType.Editor;
+    }
 
-	//
-	// TargetRules interface.
-	//
+    //
+    // TargetRules interface.
+    //
 
-	public override void SetupBinaries(
-		TargetInfo Target,
-		ref List<UEBuildBinaryConfiguration> OutBuildBinaryConfigurations,
-		ref List<string> OutExtraModuleNames
-		)
-	{
-		OutExtraModuleNames.Add("BatteryCollector");
-	}
+    public override void SetupBinaries(
+        TargetInfo Target,
+        ref List<UEBuildBinaryConfiguration> OutBuildBinaryConfigurations,
+        ref List<string> OutExtraModuleNames
+        )
+    {
+        OutExtraModuleNames.Add("BatteryCollector");
+    }
 }

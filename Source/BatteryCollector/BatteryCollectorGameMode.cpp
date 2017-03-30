@@ -5,7 +5,7 @@
 #include "BatteryCollectorGameMode.h"
 #include "BatteryCollectorCharacter.h"
 #include "Kismet/GameplayStatics.h"
-
+#include "SpawnVolume.h"
 
 ABatteryCollectorGameMode::ABatteryCollectorGameMode()
 {
@@ -32,7 +32,7 @@ void ABatteryCollectorGameMode::Tick(float DeltaTime)
         {
             MyCharacter->UpdatePower(-DeltaTime * DecayRate * MyCharacter->GetInitialPower());
         }
-        else if (MyCharacter->GetCurrentPower() < 0 )
+        else if (MyCharacter->GetCurrentPower() < 0)
         {
             SetCurrentState(EBatteryPlayState::EGameOver);
         }
@@ -59,9 +59,20 @@ void ABatteryCollectorGameMode::BeginPlay()
     {
         CurrentWidget = CreateWidget<UUserWidget>(GetWorld(), HUDWidgetClass);
 
-
         if (CurrentWidget != nullptr)
             CurrentWidget->AddToViewport();
+    }
+
+    TArray<AActor*> FoundActors;
+    UGameplayStatics::GetAllActorsOfClass(GetWorld(), ASpawnVolume::StaticClass(), FoundActors);
+
+    for (auto Actor : FoundActors)
+    {
+        ASpawnVolume* SpawnVolumeActor = Cast<ASpawnVolume>(Actor);
+        if (SpawnVolumeActor)
+        {
+            SpawnVolumeActors.AddUnique(SpawnVolumeActor);
+        }
     }
 }
 

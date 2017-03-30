@@ -3,28 +3,24 @@
 #include "BatteryCollector.h"
 #include "BatteryPickup.h"
 
-
 // Sets default values for this actor's properties
 ABatteryPickup::ABatteryPickup()
 {
-	GetMesh()->SetSimulatePhysics(true);
-	//The base power level of the battery
+    GetMesh()->SetSimulatePhysics(true);
+    //The base power level of the battery
 
-	BatteryPower = 150.f;
+    BatteryPower = 150.f;
 }
-
 
 void ABatteryPickup::WasCollected_Implementation()
 {
-	Super::WasCollected_Implementation();
-	//Destroy the battery
-	Destroy();
+    Super::WasCollected_Implementation();
+    //Destroy the battery
+    Destroy();
 }
-
 
 //Report the power level of the battery
 float ABatteryPickup::GetBatteryPower() const
 {
-	return BatteryPower;
+    return BatteryPower;
 }
-

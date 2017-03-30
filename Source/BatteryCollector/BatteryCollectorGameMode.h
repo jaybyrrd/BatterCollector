@@ -22,37 +22,35 @@ public:
     virtual void Tick(float DeltaTime) override;
 
     UFUNCTION(BlueprintPure, Category = "Power")
-    float GetPowerToWin() const;
+        float GetPowerToWin() const;
 
     UFUNCTION(Blueprintpure, Category = "Power")
-    EBatteryPlayState GetCurrentState() const;
+        EBatteryPlayState GetCurrentState() const;
 
     /** Sets a new playing state */
     void SetCurrentState(EBatteryPlayState NewState);
-
 
     virtual void BeginPlay() override;
 
 protected:
     /** This rate at which the character loses power */
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Power")
-    float DecayRate;
+        float DecayRate;
 
     /** Power needed to win the game */
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Power", Meta = (BlueprintProtected = "true"))
-    float PowerToWin;
+        float PowerToWin;
 
     /** The widget class to use for our hud */
     UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Power", Meta = (BlueprintProtected = "true"))
-    TSubclassOf<class UUserWidget> HUDWidgetClass;
+        TSubclassOf<class UUserWidget> HUDWidgetClass;
 
-    /** The isntance of the hud */
+    /** The instance of the hud */
     UPROPERTY()
-    class UUserWidget* CurrentWidget;
+        class UUserWidget* CurrentWidget;
 
 private:
     /** Keeps track of the current playing state */
     EBatteryPlayState CurrentState;
-
-
+    TArray<class ASpawnVolume*> SpawnVolumeActors;
 };
